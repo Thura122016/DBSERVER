@@ -1,6 +1,6 @@
-1.55
+1.60
 Force
-https://www.dropbox.com/s/uc9e5tz4p72thks/ATA%20MLBGChanger%20%28V1.60%29.apk?dl=1
+https://www.dropbox.com/s/16qja9ip3rgwhd2/ATA%20MLBGChanger%28V1.60%29.apk?dl=1
 ### Fix ###
 *XUI-Bugs Fix
 ### Add ###
