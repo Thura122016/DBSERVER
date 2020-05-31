@@ -1,10 +1,15 @@
 1.55
 Force
 https://www.dropbox.com/s/u9ndyr0bdw303ps/ATA%20MLBGChanger%28Version%201.55%29.apk.apk?dl=1
-*UI-Bugs Fix
-*Loading Waiting Fix
-*Update-Server Error-Fix
-*Change Server
+### Fix ###
+*XUI-Bugs Fix
+### Add ###
+*Manual Cleardata
+*Restore Skins(One click)
+*Rewarded video
+### New ###
+You can't change Background without watching ADS
+
 Thanks for using our app.
 
 --------ATA--------
