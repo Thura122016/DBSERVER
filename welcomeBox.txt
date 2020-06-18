@@ -1,7 +1,7 @@
-OpenPage,102663364819988,Like Us,False
+OpenPage,102663364819988,Like now,False
 Hello!
 Our old page was Locked.
 If u didn't liked our new page then
-pls LIKE us.
+please LIKE us.
 
 Thank U.
