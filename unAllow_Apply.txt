@@ -1,0 +1,7 @@
+skins,0Luo-Yi_Painted&Skin_BlackDevil,
+skins,0Harith_BlackDevil_Green&EVOS&Legend,
+skins,0Ling_Star&Painted&Skin_BLACKDEVIL,
+maps,9,
+maps,10,
+maps,12,
+loading,2,
