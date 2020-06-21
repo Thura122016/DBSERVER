@@ -1,13 +1,9 @@
-2.0
+2.1
 Force
-https://www.dropbox.com/s/rgi72tzl7su69cr/ATA_MLBG_CHANGER_2.0.apk?dl=1
-*BigChanges
--Add topfans
--Add notic board
--Fix bugs
--Remove Video ADS
--Remove Tutorial(Will back)
--Remove some Skins and Maps
+https://www.dropbox.com/s/4f78utycm8pkpd2/ATA_MLBG_CHANGER_2.1.apk?dl=1
+*Changes
+-Add Heroes' role
+-Minor bugs fix
 
 Thanks for using our app.
 
