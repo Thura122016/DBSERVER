@@ -1,8 +1,5 @@
-JustOk,Null,OK,False
-*Changes
--Add Heroes' role
--Minor bugs fix
-
-Thanks for using our app.
+OpenPost,118393096580348,See More,True
+Map တွေက အဆင်မပြေတော့ဘူး။
+အဲ့တာကြောင့် Map တွေကို ပိတ်ပါတော့မယ်။
 
 --------ATA--------
