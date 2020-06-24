@@ -1,6 +1,7 @@
-OpenPost,118393096580348,See More,True
-*No Map!!!
-Map တွေက အဆင်မပြေတော့ဘူး။
-အဲ့တာကြောင့် Map တွေကို ပိတ်ပါတော့မယ်။
+JustOk,Null,OK,False
+Wednesday
+Today is Wednesday!!!
+Don't forget to send TopFan ID...
+Thank You.
 
 --------ATA--------
