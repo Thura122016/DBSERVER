@@ -1,4 +1,4 @@
-JustOK,Null,Exit Now,False
+JustOK,Null,OK,False
 Hello everyone!
 Today we fix the Server Error!
 IF anyone who does'nt appear skins,
