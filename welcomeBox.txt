@@ -1,8 +1,8 @@
-JustExit,Null,Exit Now,False
-Server Maintenance!
-Now we are maintaining our Server.
-Please wait for an hour.
-We'll back soon.
+JustOK,Null,Exit Now,False
+Hello everyone!
+Today we fix the Server Error!
+IF anyone who does'nt appear skins,
+Now check it out.
 
 Thank You.
 
