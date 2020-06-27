@@ -1,7 +1,8 @@
-JustOk,Null,OK,False
-New skin is Released!
-Freya Epic Skin
-Ruby Epic Skin
+JustExit,Null,Exit Now,False
+Server Maintenance!
+Now we are maintaining our Server.
+Please wait for an hour.
+We'll back soon.
 
 Thank You.
 
