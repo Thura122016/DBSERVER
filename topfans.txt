@@ -40,7 +40,7 @@ f216783242c9eff4 : Pe Co : 39
 0a1f948433e5100e : Maung Nyunt : 40
 e52e9e042a6bec5e : Royal King : 41
 ff77ba063ace2e3a : Htoo War : 42
-b78f467abbb31fae : Thuya Lynn : 43
+b78f467abbb31fae : Thuya Linn : 43
 ab44f33a1a48495a : Toshio Sho : 44
 ce59d08a591142cd : Jr Soe Lay : 45
 17c1329f4ccf7168 : Ko Taw Chaw : 46
