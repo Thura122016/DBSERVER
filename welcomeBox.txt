@@ -1,7 +1,7 @@
 JustOK,Null,OK,False
 Notice!
-Today,we are fixing the Server-Error
-You can't found som hero and skins.
+Everthing just fine.
+Welcome Back everbody!
 
 Thank You.
 
