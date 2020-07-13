@@ -96,4 +96,9 @@ b43e3775e2579293 : Mg Tun Tun : 90
 5d3c1fbba21cb911 : ဘုန်းမြင့်သွေး : 96
 7be70e20704431f0 : Yawana O : 97 
 bf0c91af94f3a160 : Phu Phu : 98 
-8116c2e5101d9d1c : Nga Ye : 99 
+8116c2e5101d9d1c : Nga Ye : 99
+d9df437a7271d26d : Ko Shine : 100
+61a24ab1dc386344 : Aung Phyo : 101
+fe2d1a884f2e9b24 : Shin : 102
+b178f3565c4a3bfd : Thet Hmue Paing : 103
+65da21b52e029e08 : နောင်နောင် : 104
