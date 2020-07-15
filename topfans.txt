@@ -1,5 +1,5 @@
 88f0daf221358365 : Aung Thura : 0
-fedae22362148944 : Zin Thuya Aung : 1
+fedae22362148943 : Zin Thuya Aung : 1
 d058809746127fd0 : Victoria Zin Min Htike : 2
 37c583b65b2064ed : Paing Zay Hein : 3
 29720dac36385a47 : JA Lay Bi : 4
@@ -102,3 +102,5 @@ d9df437a7271d26d : Ko Shine : 100
 fe2d1a884f2e9b24 : Shin : 102
 b178f3565c4a3bfd : Thet Hmue Paing : 103
 65da21b52e029e08 : နောင်နောင် : 104
+4900b3a82ee303c8 : Nay Thu Rain : 105
+12d9b946e0f5846b : Puu Tinn : 106
