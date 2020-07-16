@@ -1,9 +1,13 @@
-2.1
+2.2
 Force
-https://www.dropbox.com/s/4f78utycm8pkpd2/ATA_MLBG_CHANGER_2.1.apk?dl=1
+https://www.dropbox.com/s/w0hthv332a9v96b/ATA_MLBG_CHANGER_2.2.apk?dl=1
 *Changes
--Add Heroes' role
--Minor bugs fix
+-Add Heroes&Skins Name
+-Add Plugin Skins
+-Add Map Warning Message!
+-Fix UI
+-Fix ClearData
+-Fix Server
 
 Thanks for using our app.
 
