@@ -1,8 +1,8 @@
-JustOK,Null,OK,False
-Notice!
-Everthing just fine.
-Welcome Back everbody!
+JustExit,null,Exit Now,False
+Server Is Maintenance!
+Server Error ဖြစ်နေသ၍ Application သုံးဆွဲမှုအား ခဏပိတ်ထားပါတယ်။
 
-Thank You.
 
---------ATA--------
+Server Error ျဖစ္ေနသ၍ Application သုံးဆြဲမႈအား ခဏပိတ္ထားပါတယ္။
+
+Thank U.
