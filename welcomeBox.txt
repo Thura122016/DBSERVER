@@ -1,4 +1,4 @@
-JustExit,null,Exit Now,False
+JustOk,null,Exit Now,False
 Server Is Maintenance!
 Server Error ဖြစ်နေသ၍ Application သုံးဆွဲမှုအား ခဏပိတ်ထားပါတယ်။
 
