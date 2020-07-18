@@ -1,8 +1,9 @@
-JustOk,null,Exit Now,False
-Server Is Maintenance!
-Server Error ဖြစ်နေသ၍ Application သုံးဆွဲမှုအား ခဏပိတ်ထားပါတယ်။
+JustOk,null,OK,False
+Welcome!
+Server Error ဖြစ်နေတာေလးကို ပြန်ပြင်ပြီးပါပြီ။
+အရင်တုန်းကအတိုင်း ပြန်လည်သုံးဆွဲနိုင်ပါြပီ။
 
-
-Server Error ျဖစ္ေနသ၍ Application သုံးဆြဲမႈအား ခဏပိတ္ထားပါတယ္။
+Server Error ျဖစ္ေနတာေလးကို ျပန္ျပင္ၿပီးပါၿပီ။
+အရင္တုန္းကအတိုင္း ျပန္လည္သုံးဆြဲနိုင္ပါၿပီ။
 
 Thank U.
