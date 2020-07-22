@@ -1,9 +1,9 @@
 JustOk,null,OK,False
 Welcome!
-Server Error ဖြစ်နေတာေလးကို ပြန်ပြင်ပြီးပါပြီ။
-အရင်တုန်းကအတိုင်း ပြန်လည်သုံးဆွဲနိုင်ပါြပီ။
+Application ဘယ်ဘက်ထောင့်က Frame လေးကိုနှိပ်ပြီး
+ATA Facebook Profile Frame လေးချိန်းလို့ရပြီနော်။
 
-Server Error ျဖစ္ေနတာေလးကို ျပန္ျပင္ၿပီးပါၿပီ။
-အရင္တုန္းကအတိုင္း ျပန္လည္သုံးဆြဲနိုင္ပါၿပီ။
+Application ဘယ္ဘက္ေထာင့္က Frame ေလးကိုႏွိပ္ၿပီး
+ATA Facebook Profile Frame ေလးခ်ိန္းလို႔ရၿပီေနာ္။
 
 Thank U.
