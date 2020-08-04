@@ -1,9 +1,11 @@
 JustOk,null,OK,False
 Welcome!
-Application ဘယ်ဘက်ထောင့်က Frame လေးကိုနှိပ်ပြီး
-ATA Facebook Profile Frame လေးချိန်းလို့ရပြီနော်။
+Mobile Legend မှာ Error များတက်နေပါက
+Application ညာဘက်ထောင့်မှ Setting  ထဲဝင်ပြီး
+ML All Error Fix ကိုနှိပ်လိုက်ပါ။
 
-Application ဘယ္ဘက္ေထာင့္က Frame ေလးကိုႏွိပ္ၿပီး
-ATA Facebook Profile Frame ေလးခ်ိန္းလို႔ရၿပီေနာ္။
+Mobile Legend မွာ Error မ်ားတက္ေနပါက
+Application ညာဘက္ေထာင့္မွ Setting  ထဲဝင္ၿပီး
+ML All Error Fix ကိုႏွိပ္လိုက္ပါ။
 
 Thank U.
