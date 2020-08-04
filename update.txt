@@ -1,10 +1,11 @@
-2.3
+2.4
 Force
-https://www.dropbox.com/s/j1xfm6tneohbm2g/ATA_MLBG_CHANGER_2.3.apk?dl=1
+https://www.dropbox.com/s/1co6m30n24uafaf/ATA_MLBG_CHANGER_2.4.apk?dl=1
 *Changes
--Add Recall
--Add Facebook Profile Frame
+-Add ML All Error Fix
+-Fix Application Animation
 -Fix UI
+-Fix Bugs
 
 Thanks for using our app.
 
