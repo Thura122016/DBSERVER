@@ -1,4 +1,4 @@
-JustExit,null,Exit Now,True
+JustExit,null,Exit Now,False
 Server Maintenance!
 Server ပြုပြင်နေပါသဖြင့် ခဏစောင့်ဆိုင်းပေးကြပါ။
 
