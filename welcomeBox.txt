@@ -1,11 +1,7 @@
-JustOk,null,OK,False
-Welcome!
-Mobile Legend မှာ Error များတက်နေပါက
-Application ညာဘက်ထောင့်မှ Setting  ထဲဝင်ပြီး
-ML All Error Fix ကိုနှိပ်လိုက်ပါ။
+JustExit,null,Exit Now,True
+Server Maintenance!
+Server ပြုပြင်နေပါသဖြင့် ခဏစောင့်ဆိုင်းပေးကြပါ။
 
-Mobile Legend မွာ Error မ်ားတက္ေနပါက
-Application ညာဘက္ေထာင့္မွ Setting  ထဲဝင္ၿပီး
-ML All Error Fix ကိုႏွိပ္လိုက္ပါ။
+Server ျပဳျပင္ေနပါသျဖင့္ ခဏေစာင့္ဆိုင္းေပးၾကပါ။
 
 Thank U.
