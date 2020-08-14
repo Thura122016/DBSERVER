@@ -1,4 +1,4 @@
-JustOk,null,OK,True
+JustOk,null,OK,False
 Welcome
 ATA မှသင့်ကိုကြိုဆိုပါသည်။
 Server ပြုပြင်ပြီးပါပြီ။
