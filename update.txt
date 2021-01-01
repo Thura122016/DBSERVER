@@ -1,12 +1,45 @@
-2.5
+3.0
 Force
-https://www.dropbox.com/s/bredf3aijiorypr/ATA_MLBG_CHANGER_2.51.apk?dl=1
-*Changes
--Add LoadingText
--Add Name
--Add Dark Mode
--Fix Application Animation
--Fix Bugs
+https://atamlbgchanger.net/ATAMLBGChangerz1.0/Server/ATAMLBGCHANGER_3.0.apk
+ATA MLBGChanger 3.0 is available.
+
+--Added Features--
+
+*Add Dark Mode
+*Add Themes
+*Add Search
+*Add Tabs to switch pages
+*Add Tophit feature for all changer
+*Add ATA diamond to buy certain items
+*Add ATA user profile with role
+*Add Customize avatar profile,border & name
+*Add Apply count for all items
+*Add Introduction changer
+*Add Hero_Analog changer
+*Add 2 more pictures to check Maps & skins
+*Add Tab to check Original & Custom skins
+*Add Native ADS
+*Add Order button for custom background
+*Add Notification
+*Add History of user's events
+*Add Powerful ML all error fix
+*Add Cash to ATA diamond system
+*Add NoADS Feature(with buying)
+*Add App errors handling activity
+
+--Fix Features--
+
+*Fix All UI
+*Fix Server
+*Fix Data lefting after uninstall
+*Fix Resolution and size of pictures
+*Fix app size
+*Fix Common changer can't apply
+*Fix MLBB App not found error
+*Fix Force Closed error when opening app
+*Fix Some apply errors
+*Fix Recall restore
+*Fix Skin apply after update MLBB
 
 Thanks for using our app.
 
